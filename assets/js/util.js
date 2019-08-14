@@ -66,16 +66,16 @@
 			config = $.extend({
 
 				// Delay.
-					delay: 0,
+					delay: 1,
 
 				// Hide panel on link click.
-					hideOnClick: false,
+					hideOnClick: true,
 
 				// Hide panel on escape keypress.
-					hideOnEscape: false,
+					hideOnEscape: true,
 
 				// Hide panel on swipe.
-					hideOnSwipe: false,
+					hideOnSwipe: true,
 
 				// Reset scroll position on hide.
 					resetScroll: false,
